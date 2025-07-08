@@ -1,6 +1,6 @@
 import smtplib
 from os import system
-def hell():
+def hell(berfinaloush@gmail.com):
                     mawar = "\033[31;m1"
                     susu1 = "\033[37;1m"
                     hole1 = "\033[32;1m"
@@ -53,10 +53,11 @@ for password in passwd:
                 if error[14] == '<':
                             system('clear')
                             hell()
-                            print "\n"
+                            print "\n"0964992850
                             print mawar+"-->[!] Password Zonk!:" + password
                             break
                 else:
                         print mawar+"-->[!] Password Zonk!:" + password
+
 
 
